@@ -6,7 +6,7 @@ app:
   version: "v1"
   white: "127.0.0.11@0.0.0.0"
   timeZone: "Asia/Kolkata"
-  FontVersion : "chat_page3.html"
+  FontVersion : "chat_page5.html"
 
 
 
