@@ -6,7 +6,7 @@
   background-color: transparent;
 }
 .chatVisitorPage {
-  height: calc(100% - 140px);
+  height: calc(100% - 114px);
 }
 .chatEntBox .aperture1 {
   position: absolute;
@@ -73,6 +73,7 @@
   border-top: none;
   background: #282627;
   padding: 8px 0;
+  height: auto;
 }
 .text_photo_mod {
   display: flex;
