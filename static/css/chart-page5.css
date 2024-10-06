@@ -5,7 +5,7 @@
 .chatVisitorPage {
   height: calc(100% - 140px);
 }
-.chatEntBox .aperture1 {
+/* .chatEntBox .aperture1 {
   position: absolute;
   top: 20%;
   left: -63px;
@@ -46,7 +46,7 @@
   );
   border-radius: 50%;
   filter: blur(50px);
-}
+} */
 .chatContext {
   background: transparent;
   overflow-x: hidden;
